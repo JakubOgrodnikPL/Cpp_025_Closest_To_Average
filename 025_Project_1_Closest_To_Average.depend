@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1648564502 source:c:\users\jakub\documents\025_project_1_closest_to_average\main.cpp
+	<iostream>
+	<cmath>
+
